@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/DICE/static/js/main.d86b7161.js",
-    "index.html": "/DICE/index.html",
-    "main.d86b7161.js.map": "/DICE/static/js/main.d86b7161.js.map"
+    "main.js": "/GAME/static/js/main.ac6e099d.js",
+    "index.html": "/GAME/index.html",
+    "main.ac6e099d.js.map": "/GAME/static/js/main.ac6e099d.js.map"
   },
   "entrypoints": [
-    "static/js/main.d86b7161.js"
+    "static/js/main.ac6e099d.js"
   ]
 }
